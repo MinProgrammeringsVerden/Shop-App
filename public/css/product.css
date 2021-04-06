@@ -1,0 +1,42 @@
+
+
+ .product-form{
+     width: 20rem;
+     max-width:90% ;
+     margin:auto;
+     display: block;
+      }
+
+.product-item{
+        width: 20rem;
+        max-width:95% ;
+      
+         }
+
+.product_title{
+     font-size: 1.2 rem;      
+     text-align: center;
+           }
+       
+.product_price{
+    text-align: center;
+    color: #4d4d4d   ;
+    margin-bottom: 0.5rem;     
+                }
+.product_description{
+    text-align: center;
+}
+
+.btn{
+    font:inherit;
+    border: 2px solid rgb(1, 53, 7);
+    color: rgb(67, 45, 45);
+    background: #f0ffff;
+    border-radius: 3 px;
+    cursor: pointer;
+    padding :0.5rem;
+}
+.btn:hover , 
+.btn:active {
+    color: rgb(1, 53, 7);
+}
